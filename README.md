@@ -5,3 +5,5 @@ Solutions to PrepInsta 100 Problems in Python:
 4. Sum of N natural numbers
 5. Sum of numbers in a given range
 6. Greatest of two numbers
+7. Greatest of three numbers
+8. Leap year or not
