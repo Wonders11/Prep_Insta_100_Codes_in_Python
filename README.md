@@ -4,3 +4,4 @@ Solutions to PrepInsta 100 Problems in Python:
 3. Sum of First N Natural numbers
 4. Sum of N natural numbers
 5. Sum of numbers in a given range
+6. Greatest of two numbers
